@@ -1,0 +1,10 @@
+.disclaimer {
+    font-size: 14px;
+    color: #ff8080;
+    background-color: #1a1a1a;
+    padding: 10px 15px;
+    margin: 0 auto 20px auto;
+    max-width: 500px;
+    border-radius: 6px;
+    border: 1px solid #ff3333;
+  }  
